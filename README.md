@@ -1,9 +1,9 @@
 # index.html
-<!doctype html>
+
 <html lang="en">
 <head> 
 <link rel="stylesheet" type="text/css" href="homework1.css">
-<title> Homework Number 1</title>
+
 </head>
 <body>
 <h1 id="myfont">Tanner Cookston</h1>
