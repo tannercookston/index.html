@@ -1,21 +1,18 @@
-
-
-<html lang="en">
-<head> 
-
-
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
 </head>
+
 <body>
-<h1>Tanner Cookston</h1>
-<h2> About Me </h2>
-<dl>
-  <dt> Business Information Systems Undergraduate </dt>
-    <dd>-Mississippi State University</dd>
-    <dd>-Expected Graduation: May 2020</dd>
-  <dt> Programing Languages</dt>
-    <dd>-Proficient: HTML5,CSS3,PHP</dd>
-    <dd>-Familar: JavaScript </dd>
-  </dl>
+
+<h1>A Web Page</h1>
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
 
 </body>
 </html>
