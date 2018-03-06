@@ -13,8 +13,8 @@
     <dd>-Mississippi State University</dd>
     <dd>-Expected Graduation: May 2020</dd>
   <dt> Programing Languages</dt>
-    <dd>Proficient: HTML5,CSS3,PHP</dd>
-    <dd>Familar: JavaScript </dd>
+    <dd>-Proficient: HTML5,CSS3,PHP</dd>
+    <dd>-Familar: JavaScript </dd>
   </dl>
 
 </body>
